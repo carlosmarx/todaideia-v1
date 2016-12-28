@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="130"
+   height="32.131001"
+   viewBox="0 0 130 32.130998"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo-topo.svg"
+   inkscape:export-filename="/media/seered/45BB1D1723DFF433/Trabalhos/TodaIdeia/Vetor Logo/logo1.png"
+   inkscape:export-xdpi="89"
+   inkscape:export-ydpi="89">
+  <defs
+     id="defs4">
+    <rect
+       y="309"
+       x="160"
+       width="80"
+       rx="5"
+       id="path-1"
+       height="10" />
+    <filter
+       y="-0.5"
+       x="-0.5"
+       width="2"
+       id="filter-2"
+       height="2"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         id="feOffset5204"
+         result="shadowOffsetOuter1"
+         in="SourceAlpha"
+         dy="4"
+         dx="0" />
+      <feGaussianBlur
+         id="feGaussianBlur5206"
+         stdDeviation="2"
+         result="shadowBlurOuter1"
+         in="shadowOffsetOuter1" />
+      <feColorMatrix
+         id="feColorMatrix5208"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         type="matrix"
+         in="shadowBlurOuter1" />
+    </filter>
+    <rect
+       y="329"
+       x="169.7868"
+       width="60"
+       rx="5"
+       id="path-3"
+       height="10" />
+    <filter
+       y="-0.5"
+       x="-0.5"
+       width="2"
+       id="filter-4"
+       height="2"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         id="feOffset5212"
+         result="shadowOffsetOuter1"
+         in="SourceAlpha"
+         dy="4"
+         dx="0" />
+      <feGaussianBlur
+         id="feGaussianBlur5214"
+         stdDeviation="2"
+         result="shadowBlurOuter1"
+         in="shadowOffsetOuter1" />
+      <feColorMatrix
+         id="feColorMatrix5216"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         type="matrix"
+         in="shadowBlurOuter1" />
+    </filter>
+    <rect
+       y="349"
+       x="179.7868"
+       width="40"
+       rx="5"
+       id="path-5"
+       height="10" />
+    <filter
+       y="-0.5"
+       x="-0.5"
+       width="2"
+       id="filter-6"
+       height="2"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         id="feOffset5220"
+         result="shadowOffsetOuter1"
+         in="SourceAlpha"
+         dy="4"
+         dx="0" />
+      <feGaussianBlur
+         id="feGaussianBlur5222"
+         stdDeviation="2"
+         result="shadowBlurOuter1"
+         in="shadowOffsetOuter1" />
+      <feColorMatrix
+         id="feColorMatrix5224"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         type="matrix"
+         in="shadowBlurOuter1" />
+    </filter>
+    <path
+       id="path-7"
+       d="M 150.26298,259 C 131.76445,233.16776 99.786797,197.49457 99.786797,169.47619 99.786797,113.98472 144.77152,69 200.26299,69 c 55.49146,0 100.47619,44.98472 100.47619,100.47619 0,28.01838 -31.97766,63.69157 -50.47619,89.52381 0,6.1e-4 0,10e-4 0,0.002 l 0,35.99638 c 0,2.21014 -1.79953,4.00181 -3.99733,4.00181 l -92.00535,0 c -2.20766,0 -3.99732,-1.79309 -3.99732,-4.00181 l 0,-35.99638 c 0,-6e-4 0,-0.001 0,-0.002 l -1e-5,0 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       y="-0.5"
+       x="-0.5"
+       width="2"
+       id="filter-8"
+       height="2"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         id="feOffset5228"
+         result="shadowOffsetOuter1"
+         in="SourceAlpha"
+         dy="4"
+         dx="0" />
+      <feGaussianBlur
+         id="feGaussianBlur5230"
+         stdDeviation="2"
+         result="shadowBlurOuter1"
+         in="shadowOffsetOuter1" />
+      <feColorMatrix
+         id="feColorMatrix5232"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         type="matrix"
+         in="shadowBlurOuter1" />
+    </filter>
+    <path
+       id="path-9"
+       d="m 179.95871,184.05111 -9.08827,-59.07381 c -0.50353,-3.27294 1.31773,-4.43988 4.08306,-2.59633 l 5.01043,3.34029 c 2.75854,1.83903 7.22423,1.84355 9.98956,0 l 5.01043,-3.34029 c 2.75853,-1.83903 7.22423,-1.84355 9.98956,0 l 5.01044,3.34029 c 2.75855,1.83903 7.22425,1.84355 9.98958,0 l 5.01043,-3.34029 c 2.75854,-1.83903 4.58726,-0.68097 4.08306,2.59633 l -9.08828,59.07382 0,59.00146 c 0,3.3129 -2.68662,5.99854 -5.99922,5.99854 l -28.00156,-1e-5 c -3.31327,0 -5.99922,-2.6897 -5.99922,-5.99853 l 0,-59.00147 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       y="-0.5"
+       x="-0.5"
+       width="2"
+       id="filter-10"
+       height="2"
+       filterUnits="objectBoundingBox">
+      <feMorphology
+         id="feMorphology5236"
+         result="shadowSpreadOuter1"
+         radius="4"
+         operator="dilate"
+         in="SourceAlpha" />
+      <feOffset
+         id="feOffset5238"
+         result="shadowOffsetOuter1"
+         in="shadowSpreadOuter1"
+         dy="2"
+         dx="0" />
+      <feMorphology
+         id="feMorphology5240"
+         result="shadowInner"
+         radius="4"
+         operator="erode"
+         in="SourceAlpha" />
+      <feOffset
+         id="feOffset5242"
+         result="shadowInner"
+         in="shadowInner"
+         dy="2"
+         dx="0" />
+      <feComposite
+         id="feComposite5244"
+         result="shadowOffsetOuter1"
+         operator="out"
+         in2="shadowInner"
+         in="shadowOffsetOuter1" />
+      <feGaussianBlur
+         id="feGaussianBlur5246"
+         stdDeviation="1"
+         result="shadowBlurOuter1"
+         in="shadowOffsetOuter1" />
+      <feColorMatrix
+         id="feColorMatrix5248"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         type="matrix"
+         in="shadowBlurOuter1" />
+    </filter>
+    <circle
+       r="4"
+       id="path-11"
+       cy="243"
+       cx="219.7868" />
+    <filter
+       y="-0.5"
+       x="-0.5"
+       width="2"
+       id="filter-12"
+       height="2"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         id="feOffset5252"
+         result="shadowOffsetOuter1"
+         in="SourceAlpha"
+         dy="2"
+         dx="0" />
+      <feGaussianBlur
+         id="feGaussianBlur5254"
+         stdDeviation="1"
+         result="shadowBlurOuter1"
+         in="shadowOffsetOuter1" />
+      <feColorMatrix
+         id="feColorMatrix5256"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         type="matrix"
+         in="shadowBlurOuter1" />
+    </filter>
+    <circle
+       r="4"
+       id="path-13"
+       cy="243"
+       cx="179.7868" />
+    <filter
+       y="-0.5"
+       x="-0.5"
+       width="2"
+       id="filter-14"
+       height="2"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         id="feOffset5260"
+         result="shadowOffsetOuter1"
+         in="SourceAlpha"
+         dy="2"
+         dx="0" />
+      <feGaussianBlur
+         id="feGaussianBlur5262"
+         stdDeviation="1"
+         result="shadowBlurOuter1"
+         in="shadowOffsetOuter1" />
+      <feColorMatrix
+         id="feColorMatrix5264"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         type="matrix"
+         in="shadowBlurOuter1" />
+    </filter>
+    <rect
+       y="10"
+       x="190"
+       width="20"
+       rx="6"
+       id="path-15"
+       height="40" />
+    <filter
+       y="-0.5"
+       x="-0.5"
+       width="2"
+       id="filter-16"
+       height="2"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         id="feOffset5268"
+         result="shadowOffsetOuter1"
+         in="SourceAlpha"
+         dy="2"
+         dx="0" />
+      <feGaussianBlur
+         id="feGaussianBlur5270"
+         stdDeviation="2"
+         result="shadowBlurOuter1"
+         in="shadowOffsetOuter1" />
+      <feColorMatrix
+         id="feColorMatrix5272"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         type="matrix"
+         in="shadowBlurOuter1" />
+    </filter>
+    <path
+       id="path-17"
+       d="m 257.00039,30.195477 c 1.65664,-2.869383 5.31756,-3.857209 8.19633,-2.195147 l 6.92706,3.99934 c 2.87008,1.657037 3.85342,5.327015 2.19712,8.195807 l -14.00078,24.250062 c -1.65664,2.869383 -5.31756,3.857209 -8.19634,2.195147 l -6.92706,-3.99934 c -2.87007,-1.657036 -3.85341,-5.327014 -2.19711,-8.195807 l 14.00078,-24.250062 0,0 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       y="-0.5"
+       x="-0.5"
+       width="2"
+       id="filter-18"
+       height="2"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         id="feOffset5276"
+         result="shadowOffsetOuter1"
+         in="SourceAlpha"
+         dy="2"
+         dx="0" />
+      <feGaussianBlur
+         id="feGaussianBlur5278"
+         stdDeviation="2"
+         result="shadowBlurOuter1"
+         in="shadowOffsetOuter1" />
+      <feColorMatrix
+         id="feColorMatrix5280"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         type="matrix"
+         in="shadowBlurOuter1" />
+    </filter>
+    <path
+       id="path-19"
+       d="m 312.04218,72.24209 c 2.34284,-2.342842 6.13469,-2.349493 8.4852,10e-4 l 5.65592,5.655922 c 2.3434,2.343403 2.34338,6.142837 0.001,8.485196 L 306.38421,106.1843 c -2.34285,2.34284 -6.13469,2.34949 -8.4852,-10e-4 l -5.65592,-5.65592 c -2.34341,-2.343402 -2.34338,-6.142836 -10e-4,-8.485195 l 19.80009,-19.800092 0,0 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       y="-0.5"
+       x="-0.5"
+       width="2"
+       id="filter-20"
+       height="2"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         id="feOffset5284"
+         result="shadowOffsetOuter1"
+         in="SourceAlpha"
+         dy="2"
+         dx="0" />
+      <feGaussianBlur
+         id="feGaussianBlur5286"
+         stdDeviation="2"
+         result="shadowBlurOuter1"
+         in="shadowOffsetOuter1" />
+      <feColorMatrix
+         id="feColorMatrix5288"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         type="matrix"
+         in="shadowBlurOuter1" />
+    </filter>
+    <path
+       id="path-21"
+       d="m 122.99961,40.195477 c -1.65664,-2.869383 -0.68166,-6.533745 2.19711,-8.195807 l 6.92706,-3.99934 c 2.87008,-1.657037 6.54004,-0.673645 8.19634,2.195147 l 14.00078,24.250062 c 1.65664,2.869383 0.68166,6.533745 -2.19712,8.195807 l -6.92706,3.99934 c -2.87007,1.657037 -6.54003,0.673646 -8.19633,-2.195147 l -14.00078,-24.250062 0,0 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       y="-0.5"
+       x="-0.5"
+       width="2"
+       id="filter-22"
+       height="2"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         id="feOffset5292"
+         result="shadowOffsetOuter1"
+         in="SourceAlpha"
+         dy="2"
+         dx="0" />
+      <feGaussianBlur
+         id="feGaussianBlur5294"
+         stdDeviation="2"
+         result="shadowBlurOuter1"
+         in="shadowOffsetOuter1" />
+      <feColorMatrix
+         id="feColorMatrix5296"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         type="matrix"
+         in="shadowBlurOuter1" />
+    </filter>
+    <path
+       id="path-23"
+       d="m 73.24209,86.384225 c -2.342842,-2.342841 -2.349493,-6.134686 10e-4,-8.485196 l 5.655922,-5.655922 c 2.343403,-2.343403 6.142837,-2.343377 8.485196,-10e-4 L 107.1843,92.042199 c 2.34284,2.342841 2.34949,6.134686 -10e-4,8.485201 l -5.65592,5.65592 c -2.343402,2.3434 -6.142836,2.34338 -8.485195,0.001 L 73.24209,86.384225 l 0,0 z"
+       inkscape:connector-curvature="0" />
+    <filter
+       y="-0.5"
+       x="-0.5"
+       width="2"
+       id="filter-24"
+       height="2"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         id="feOffset5300"
+         result="shadowOffsetOuter1"
+         in="SourceAlpha"
+         dy="2"
+         dx="0" />
+      <feGaussianBlur
+         id="feGaussianBlur5302"
+         stdDeviation="2"
+         result="shadowBlurOuter1"
+         in="shadowOffsetOuter1" />
+      <feColorMatrix
+         id="feColorMatrix5304"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         type="matrix"
+         in="shadowBlurOuter1" />
+    </filter>
+    <filter
+       filterUnits="objectBoundingBox"
+       height="2"
+       id="filter-2-3"
+       width="2"
+       x="-0.5"
+       y="-0.5">
+      <feOffset
+         dx="0"
+         dy="4"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset12" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="2"
+         id="feGaussianBlur14" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         type="matrix"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         id="feColorMatrix16" />
+    </filter>
+    <filter
+       filterUnits="objectBoundingBox"
+       height="2"
+       id="filter-4-6"
+       width="2"
+       x="-0.5"
+       y="-0.5">
+      <feOffset
+         dx="0"
+         dy="4"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset20" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="2"
+         id="feGaussianBlur22" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         type="matrix"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         id="feColorMatrix24" />
+    </filter>
+    <filter
+       filterUnits="objectBoundingBox"
+       height="2"
+       id="filter-6-7"
+       width="2"
+       x="-0.5"
+       y="-0.5">
+      <feOffset
+         dx="0"
+         dy="4"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset28" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="2"
+         id="feGaussianBlur30" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         type="matrix"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         id="feColorMatrix32" />
+    </filter>
+    <filter
+       filterUnits="objectBoundingBox"
+       height="2"
+       id="filter-8-5"
+       width="2"
+       x="-0.5"
+       y="-0.5">
+      <feOffset
+         dx="0"
+         dy="4"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset36" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="2"
+         id="feGaussianBlur38" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         type="matrix"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         id="feColorMatrix40" />
+    </filter>
+    <filter
+       filterUnits="objectBoundingBox"
+       height="2"
+       id="filter-10-3"
+       width="2"
+       x="-0.5"
+       y="-0.5">
+      <feMorphology
+         in="SourceAlpha"
+         operator="dilate"
+         radius="4"
+         result="shadowSpreadOuter1"
+         id="feMorphology44" />
+      <feOffset
+         dx="0"
+         dy="2"
+         in="shadowSpreadOuter1"
+         result="shadowOffsetOuter1"
+         id="feOffset46" />
+      <feMorphology
+         in="SourceAlpha"
+         operator="erode"
+         radius="4"
+         result="shadowInner"
+         id="feMorphology48" />
+      <feOffset
+         dx="0"
+         dy="2"
+         in="shadowInner"
+         result="shadowInner"
+         id="feOffset50" />
+      <feComposite
+         in="shadowOffsetOuter1"
+         in2="shadowInner"
+         operator="out"
+         result="shadowOffsetOuter1"
+         id="feComposite52" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="1"
+         id="feGaussianBlur54" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         type="matrix"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         id="feColorMatrix56" />
+    </filter>
+    <filter
+       filterUnits="objectBoundingBox"
+       height="2"
+       id="filter-12-5"
+       width="2"
+       x="-0.5"
+       y="-0.5">
+      <feOffset
+         dx="0"
+         dy="2"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset60" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="1"
+         id="feGaussianBlur62" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         type="matrix"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         id="feColorMatrix64" />
+    </filter>
+    <filter
+       filterUnits="objectBoundingBox"
+       height="2"
+       id="filter-14-6"
+       width="2"
+       x="-0.5"
+       y="-0.5">
+      <feOffset
+         dx="0"
+         dy="2"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset68" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="1"
+         id="feGaussianBlur70" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         type="matrix"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         id="feColorMatrix72" />
+    </filter>
+    <filter
+       filterUnits="objectBoundingBox"
+       height="2"
+       id="filter-16-2"
+       width="2"
+       x="-0.5"
+       y="-0.5">
+      <feOffset
+         dx="0"
+         dy="2"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset76" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="2"
+         id="feGaussianBlur78" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         type="matrix"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         id="feColorMatrix80" />
+    </filter>
+    <filter
+       filterUnits="objectBoundingBox"
+       height="2"
+       id="filter-18-9"
+       width="2"
+       x="-0.5"
+       y="-0.5">
+      <feOffset
+         dx="0"
+         dy="2"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset84" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="2"
+         id="feGaussianBlur86" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         type="matrix"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         id="feColorMatrix88" />
+    </filter>
+    <filter
+       filterUnits="objectBoundingBox"
+       height="2"
+       id="filter-20-1"
+       width="2"
+       x="-0.5"
+       y="-0.5">
+      <feOffset
+         dx="0"
+         dy="2"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset92" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="2"
+         id="feGaussianBlur94" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         type="matrix"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         id="feColorMatrix96" />
+    </filter>
+    <filter
+       filterUnits="objectBoundingBox"
+       height="2"
+       id="filter-22-2"
+       width="2"
+       x="-0.5"
+       y="-0.5">
+      <feOffset
+         dx="0"
+         dy="2"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset100" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="2"
+         id="feGaussianBlur102" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         type="matrix"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         id="feColorMatrix104" />
+    </filter>
+    <filter
+       filterUnits="objectBoundingBox"
+       height="2"
+       id="filter-24-7"
+       width="2"
+       x="-0.5"
+       y="-0.5">
+      <feOffset
+         dx="0"
+         dy="2"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset108" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="2"
+         id="feGaussianBlur110" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         type="matrix"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         id="feColorMatrix112" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="82.876684"
+     inkscape:cy="78.063794"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="px">
+    <sodipodi:guide
+       position="526.21094,326.76173"
+       orientation="1,0"
+       id="guide4416" />
+    <sodipodi:guide
+       position="816.00001,235"
+       orientation="0,1"
+       id="guide4418" />
+    <sodipodi:guide
+       position="471.24219,416.78907"
+       orientation="0,1"
+       id="guide4420" />
+    <sodipodi:guide
+       position="233.27735,309.64454"
+       orientation="1,0"
+       id="guide4422" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1020.231)">
+    <text
+       sodipodi:linespacing="125%"
+       id="text4271"
+       y="1049.5068"
+       x="64.31591"
+       style="font-style:normal;font-weight:normal;font-size:27.1543026px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"
+       inkscape:export-xdpi="89"
+       inkscape:export-ydpi="89"
+       inkscape:export-filename="/home/seered/www/frontend-site/images/logo-png-v2.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Pacifico;-inkscape-font-specification:Pacifico;fill:#ffffff;"
+         y="1049.5068"
+         x="64.31591"
+         id="tspan4273"
+         sodipodi:role="line"> Ideia</tspan></text>
+    <g
+       id="g4549"
+       transform="matrix(0.50988178,0,0,0.50988178,-133.39928,666.53325)"
+       inkscape:export-filename="/home/seered/www/frontend-site/images/logo-png-v2.png"
+       inkscape:export-xdpi="89"
+       inkscape:export-ydpi="89"
+       style="fill:#ffffff">
+      <g
+         inkscape:export-ydpi="89"
+         inkscape:export-xdpi="89"
+         transform="matrix(1.3314019,0,0,1.3314019,-67.386871,-240.24292)"
+         id="text4267"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+        <path
+           sodipodi:nodetypes="cccssscccscccsccscsccccccccssscccscccccccc"
+           inkscape:connector-curvature="0"
+           id="path4280"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Pacifico;-inkscape-font-specification:Pacifico;fill:#ffffff"
+           d="m 251.05859,715.76941 c 0.45573,-0.82031 1.08724,-1.51693 1.89453,-2.08984 0.82031,-0.57292 1.79688,-1.04167 2.92969,-1.40625 1.14583,-0.37761 2.40234,-0.67058 3.76953,-0.87891 1.36719,-0.20833 2.83203,-0.35156 4.39453,-0.42969 1.5625,-0.0781 3.17708,-0.11719 4.84375,-0.11719 2.26563,0 4.63542,0.0911 7.10938,0.27344 2.48698,0.18229 5.07813,0.51433 7.77344,0.9961 0.625,0.13021 1.0612,0.36458 1.30859,0.70312 0.26042,0.33854 0.39063,0.71614 0.39063,1.13281 0,0.26042 -0.0586,0.51433 -0.17579,0.76172 -0.11719,0.2474 -0.27344,0.47527 -0.46875,0.6836 -0.19531,0.20833 -0.42317,0.3776 -0.68359,0.50781 -0.26041,0.11719 -0.53385,0.17578 -0.82031,0.17578 -1.00261,0 -2.05078,-0.0521 -3.14453,-0.15625 -1.08073,-0.10417 -2.21355,-0.22135 -3.39844,-0.35156 -1.17187,-0.13021 -2.38281,-0.26042 -3.63281,-0.39063 -1.25,-0.13021 -2.53906,-0.22786 -3.86719,-0.29297 -0.23437,1.45833 -0.53385,3.02734 -0.89844,4.70703 -0.36458,1.67969 -0.76823,3.39844 -1.21094,5.15625 -0.42969,1.74479 -0.88541,3.48959 -1.36718,5.23438 -0.46875,1.73177 -0.92448,3.39193 -1.36719,4.98047 -0.44271,1.57552 -0.85937,3.03385 -1.25,4.375 -0.37761,1.34115 -0.69011,2.49349 -0.9375,3.45703 -0.10417,0.44271 -0.26693,0.85286 -0.48828,1.23047 -0.20833,0.36458 -0.44922,0.68359 -0.72266,0.95703 -0.26041,0.27344 -0.53385,0.48177 -0.82031,0.625 -0.28646,0.15625 -0.55339,0.23437 -0.80078,0.23437 -0.74219,0 -1.35417,-0.17578 -1.83594,-0.52734 -0.48177,-0.35156 -0.72266,-0.91797 -0.72266,-1.69922 0,-0.24739 0.0391,-0.52083 0.11719,-0.82031 0.16927,-1.18489 0.39063,-2.35026 0.66406,-3.49609 0.28646,-1.14583 0.61849,-2.33724 0.9961,-3.57422 0.3776,-1.25 0.80729,-2.57162 1.28906,-3.96485 0.48177,-1.39323 1.01563,-2.92317 1.60156,-4.58984 0.58594,-1.67969 1.21745,-3.52865 1.89453,-5.54688 0.69011,-2.01823 1.4323,-4.26432 2.22657,-6.73828 -0.69011,0.0521 -1.39323,0.11066 -2.10938,0.17578 -0.70313,0.0651 -1.39323,0.15628 -2.07031,0.27344 -0.66406,0.10417 -1.28906,0.24089 -1.875,0.41016 -0.57292,0.16927 -1.08073,0.38411 -1.52344,0.64453 0,0 -1.55584,-2.21762 -7.01172,-0.625 z" />
+      </g>
+      <text
+         inkscape:export-ydpi="89"
+         inkscape:export-xdpi="89"
+         sodipodi:linespacing="125%"
+         id="text4275"
+         y="751.10254"
+         x="261.62653"
+         style="font-style:normal;font-weight:normal;font-size:53.256073px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Pacifico;-inkscape-font-specification:Pacifico;fill:#ffffff"
+           y="751.10254"
+           x="261.62653"
+           id="tspan4277"
+           sodipodi:role="line">  oda</tspan></text>
+    </g>
+    <g
+       id="g4592"
+       transform="matrix(0.45186519,0,0,0.45186519,-182.97242,671.03181)"
+       inkscape:export-filename="/home/seered/www/frontend-site/images/logo-png-v2.png"
+       inkscape:export-xdpi="89"
+       inkscape:export-ydpi="89">
+      <g
+         transform="matrix(0.14310113,0,0,0.14310113,518.06203,779.37772)"
+         id="Rectangle-37-9"
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           style="fill:#000000;fill-opacity:1;filter:url(#filter-2-3)"
+           id="use118"
+           xlink:href="#path-1" />
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           style="fill:#fbf0b8;fill-rule:evenodd"
+           id="use120"
+           xlink:href="#path-1" />
+      </g>
+      <g
+         transform="matrix(0.14310113,0,0,0.14310113,518.06203,779.37772)"
+         id="Rectangle-37-Copy-3"
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           style="fill:#000000;fill-opacity:1;filter:url(#filter-4-6)"
+           id="use123"
+           xlink:href="#path-3" />
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           style="fill:#fbf0b8;fill-rule:evenodd"
+           id="use125"
+           xlink:href="#path-3" />
+      </g>
+      <g
+         transform="matrix(0.14310113,0,0,0.14310113,518.06203,779.37772)"
+         id="Rectangle-37-Copy-2-6"
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           style="fill:#000000;fill-opacity:1;filter:url(#filter-6-7)"
+           id="use128"
+           xlink:href="#path-5" />
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           style="fill:#fbf0b8;fill-rule:evenodd"
+           id="use130"
+           xlink:href="#path-5" />
+      </g>
+      <g
+         transform="matrix(0.14310113,0,0,0.14310113,518.06203,779.37772)"
+         id="Combined-Shape-0"
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           style="fill:#000000;fill-opacity:1;filter:url(#filter-8-5)"
+           id="use133"
+           xlink:href="#path-7" />
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           style="fill:#fbf0b8;fill-rule:evenodd"
+           id="use135"
+           xlink:href="#path-7" />
+      </g>
+      <g
+         transform="matrix(0.14310113,0,0,0.14310113,518.06203,779.37772)"
+         id="Rectangle-39-6"
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           style="fill:#000000;fill-opacity:1;filter:url(#filter-10-3)"
+           id="use138"
+           xlink:href="#path-9" />
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           style="stroke:#d98383;stroke-width:8"
+           id="use140"
+           xlink:href="#path-9" />
+      </g>
+      <rect
+         style="fill:#fbf0b8;fill-rule:evenodd;stroke:none;stroke-width:1"
+         y="814.15131"
+         x="542.3587"
+         width="8.5860682"
+         id="Rectangle-40-2"
+         height="3.7206295" />
+      <g
+         transform="matrix(0.14310113,0,0,0.14310113,518.06203,779.37772)"
+         id="Oval-55-6"
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           style="fill:#000000;fill-opacity:1;filter:url(#filter-12-5)"
+           id="use144"
+           xlink:href="#path-11" />
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           style="fill:#d98383;fill-rule:evenodd"
+           id="use146"
+           xlink:href="#path-11" />
+      </g>
+      <g
+         transform="matrix(0.14310113,0,0,0.14310113,518.06203,779.37772)"
+         id="Oval-55-Copy-1"
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           style="fill:#000000;fill-opacity:1;filter:url(#filter-14-6)"
+           id="use149"
+           xlink:href="#path-13" />
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           style="fill:#d98383;fill-rule:evenodd"
+           id="use151"
+           xlink:href="#path-13" />
+      </g>
+      <g
+         transform="matrix(0.14310113,0,0,0.14310113,518.06203,779.37772)"
+         id="Rectangle-41-8"
+         style="fill:#ffcc00;fill-rule:evenodd;stroke:none;stroke-width:1">
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           style="fill:#ffcc00;fill-opacity:1;filter:url(#filter-16-2)"
+           id="use154"
+           xlink:href="#path-15" />
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           style="fill:#ffcc00;fill-rule:evenodd"
+           id="use156"
+           xlink:href="#path-15" />
+      </g>
+      <g
+         transform="matrix(0.14310113,0,0,0.14310113,518.06203,779.37772)"
+         id="g158"
+         style="fill:#ffcc00;fill-rule:evenodd;stroke:none;stroke-width:1">
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           style="fill:#ffcc00;fill-opacity:1;filter:url(#filter-18-9)"
+           id="use160"
+           xlink:href="#path-17" />
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           style="fill:#ffcc00;fill-rule:evenodd"
+           id="use162"
+           xlink:href="#path-17" />
+      </g>
+      <g
+         transform="matrix(0.14310113,0,0,0.14310113,518.06203,779.37772)"
+         id="g164"
+         style="fill:#ffcc00;fill-rule:evenodd;stroke:none;stroke-width:1">
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           style="fill:#ffcc00;fill-opacity:1;filter:url(#filter-20-1)"
+           id="use166"
+           xlink:href="#path-19" />
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           style="fill:#ffcc00;fill-rule:evenodd"
+           id="use168"
+           xlink:href="#path-19" />
+      </g>
+      <g
+         transform="matrix(0.14310113,0,0,0.14310113,518.06203,779.37772)"
+         id="g170"
+         style="fill:#ffcc00;fill-rule:evenodd;stroke:none;stroke-width:1">
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           style="fill:#ffcc00;fill-opacity:1;filter:url(#filter-22-2)"
+           id="use172"
+           xlink:href="#path-21" />
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           style="fill:#ffcc00;fill-rule:evenodd"
+           id="use174"
+           xlink:href="#path-21" />
+      </g>
+      <g
+         transform="matrix(0.14310113,0,0,0.14310113,518.06203,779.37772)"
+         id="g176"
+         style="fill:#ffcc00;fill-rule:evenodd;stroke:none;stroke-width:1">
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           style="fill:#ffcc00;fill-opacity:1;filter:url(#filter-24-7)"
+           id="use178"
+           xlink:href="#path-23" />
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           style="fill:#ffcc00;fill-rule:evenodd"
+           id="use180"
+           xlink:href="#path-23" />
+      </g>
+    </g>
+  </g>
+  <style
+     id="style5163"
+     type="text/css">
+	.st0{fill:#1C2B36;}
+</style>
+</svg>
