@@ -3,8 +3,8 @@ function validateEmail(email) {
         return re.test(email);
     }
     function postContactToGoogle(){
-        var name = $('#name').val();
-        var email = $('#email').val();
+        var name = $('#nameForm').val();
+        var email = $('#emailForm').val();
         $('#btn-submit').addClass('disabled');
         $('#btn-submit').html('Enviando...');
         if ((name !== "")  && (email !== "") && (validateEmail(email))) {
