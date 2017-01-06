@@ -204,28 +204,28 @@
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Nome</label>
-                                <input type="text" class="form-control" placeholder="Seu nome" id="name" required data-validation-required-message="Por favor, digite o seu nome.">
+                                <input type="text" class="form-control" placeholder="Seu nome" id="name" name="name" required data-validation-required-message="Por favor, digite o seu nome.">
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Email</label>
-                                <input type="email" class="form-control" placeholder="Email" id="email" required data-validation-required-message="Por favor, digite o seu email.">
+                                <input type="email" class="form-control" placeholder="Email" id="email" name="email" required data-validation-required-message="Por favor, digite o seu email.">
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Telefone</label>
-                                <input type="tel" class="form-control" placeholder="Telefone/Celular" id="phone" required data-validation-required-message="Por favor, digite o número do seu telefone.">
+                                <input type="tel" class="form-control" placeholder="Telefone/Celular" id="phone" name="phone" required data-validation-required-message="Por favor, digite o número do seu telefone.">
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Mensagem</label>
-                                <textarea rows="3" class="form-control" placeholder="Sua mensagem" id="message" required data-validation-required-message="Por favor, digite sua mensagem."></textarea>
+                                <textarea rows="3" class="form-control" placeholder="Sua mensagem" id="message" name="message" required data-validation-required-message="Por favor, digite sua mensagem."></textarea>
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
@@ -497,7 +497,7 @@
 
     <script type="text/javascript">
         $(document).ready(function() {
-           $('#myModal').modal('show');
+           $('#mySmallModalLabel').modal('show');
         });
     </script>
 
