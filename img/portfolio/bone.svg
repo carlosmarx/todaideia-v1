@@ -16,8 +16,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="camisa.svg"
-   inkscape:export-filename="/home/seered/www/todaideia-v1/img/portfolio/camisa.png"
+   sodipodi:docname="bone.svg"
+   inkscape:export-filename="/media/seered/45BB1D1723DFF433/Trabalhos/TodaIdeia/Vetor Logo/logo1.png"
    inkscape:export-xdpi="89"
    inkscape:export-ydpi="89">
   <defs
@@ -1067,9 +1067,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="451.84263"
-     inkscape:cy="313.29308"
+     inkscape:zoom="0.50000003"
+     inkscape:cx="134.7347"
+     inkscape:cy="292.38509"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1082,7 +1082,7 @@
      inkscape:guide-bbox="true"
      units="px">
     <sodipodi:guide
-       position="569.92805,93.33809"
+       position="526.21094,326.76173"
        orientation="1,0"
        id="guide4416" />
     <sodipodi:guide
@@ -1094,7 +1094,7 @@
        orientation="0,1"
        id="guide4420" />
     <sodipodi:guide
-       position="329.51175,120.20815"
+       position="233.27735,309.64454"
        orientation="1,0"
        id="guide4422" />
     <sodipodi:guide
@@ -1110,7 +1110,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1120,277 +1120,109 @@
      id="layer1"
      transform="translate(0,-414.71705)">
     <rect
-       style="opacity:1;fill:#ba4c63;fill-opacity:1;stroke:none;stroke-width:2.9000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#236d58;fill-opacity:1;stroke:none;stroke-width:2.9000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect7905"
        width="900"
        height="650"
        x="0"
        y="414.71704" />
     <circle
-       style="opacity:1;fill:#236d58;fill-opacity:1;stroke:none;stroke-width:2.9000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.9000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path7903"
        cx="450"
        cy="739.71704"
        r="256.27295" />
-    <path
-       id="path5165"
-       d="m 608.21128,598.26754 c -7.35305,-9.30146 -62.64801,-16.46258 -91.34885,-38.3536 0,0 -3.99961,-1.31999 -6.65348,2.01761 -13.92341,20.68577 -27.85675,38.04182 -60.48796,38.13876 -32.63115,0.097 -46.66738,-17.17598 -60.71349,-37.77863 -2.00773,-3.32376 -6.66537,-1.97805 -6.66537,-1.97805 -28.5722,21.39523 -83.82165,29.55075 -91.11931,38.89573 -15.92127,20.69171 -38.42876,66.04302 -53.65838,95.39001 14.05403,23.26641 46.06081,37.15622 68.70878,39.08679 7.30359,-7.34715 18.5613,-28.69094 25.22072,-28.71073 3.32974,-0.01 10.05642,22.61239 10.20086,71.22613 0.10882,36.62683 -11.65853,110.58204 -11.58928,133.89 28.66718,10.57001 87.26812,9.72995 120.56522,9.63104 33.2971,-0.099 91.90201,0.39288 120.50586,-10.3473 -0.0693,-23.30796 -12.27585,-97.19195 -12.38464,-133.81875 -0.14446,-48.61377 6.4477,-71.27562 9.77742,-71.28551 6.65942,-0.0198 18.04374,21.25675 25.39085,28.56034 21.97015,-2.06323 53.89185,-16.80881 68.47533,-39.4944 -15.40375,-29.25594 -38.18034,-74.47273 -54.22428,-95.06944 z"
-       class="st0"
-       inkscape:connector-curvature="0"
-       style="fill:#ffffff;fill-opacity:1" />
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-8)"
-       xlink:href="#path-7"
-       id="use5325"
-       transform="matrix(0.42322288,-0.00125745,0.00125745,0.42322288,358.94276,654.74281)" />
-    <path
-       id="Oval-6"
-       d="m 450.2515,823.78047 c 46.74791,-0.13888 84.53199,-38.14816 84.39307,-84.89606 -0.13887,-46.7479 -38.14815,-84.53199 -84.89605,-84.39307 -46.74791,0.13888 -84.53198,38.14816 -84.39309,84.89606 0.1389,46.7479 38.14816,84.53198 84.89607,84.39307 z"
-       inkscape:connector-curvature="0"
-       style="fill:#aad8b0;fill-rule:evenodd;stroke:none;stroke-width:1" />
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-2)"
-       xlink:href="#path-1"
-       id="use5310"
-       transform="matrix(0.42322288,-0.00125745,0.00125745,0.42322288,365.10394,654.74281)" />
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       style="fill:#fbf0b8;fill-rule:evenodd;stroke:none;stroke-width:1"
-       xlink:href="#path-1"
-       id="use5312"
-       transform="matrix(0.42322288,-0.00125745,0.00125745,0.42322288,365.10394,654.74281)" />
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-4)"
-       xlink:href="#path-3"
-       id="use5315"
-       transform="matrix(0.42322288,-0.00125745,0.00125745,0.42322288,365.10394,654.74281)" />
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       style="fill:#fbf0b8;fill-rule:evenodd;stroke:none;stroke-width:1"
-       xlink:href="#path-3"
-       id="use5317"
-       transform="matrix(0.42322288,-0.00125745,0.00125745,0.42322288,365.10394,654.74281)" />
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-6)"
-       xlink:href="#path-5"
-       id="use5320"
-       transform="matrix(0.42322288,-0.00125745,0.00125745,0.42322288,365.10394,654.74281)" />
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       style="fill:#fbf0b8;fill-rule:evenodd;stroke:none;stroke-width:1"
-       xlink:href="#path-5"
-       id="use5322"
-       transform="matrix(0.42322288,-0.00125745,0.00125745,0.42322288,365.10394,654.74281)" />
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       style="fill:#fbf0b8;fill-rule:evenodd;stroke:none;stroke-width:1"
-       xlink:href="#path-7"
-       id="use5327"
-       transform="matrix(0.42322288,-0.00125745,0.00125745,0.42322288,365.10394,654.74281)" />
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-10)"
-       xlink:href="#path-9"
-       id="use5330"
-       transform="matrix(0.42322288,-0.00125745,0.00125745,0.42322288,365.10394,654.74281)" />
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       style="fill:none;fill-rule:evenodd;stroke:#d98383;stroke-width:8"
-       xlink:href="#path-9"
-       id="use5332"
-       transform="matrix(0.42322288,-0.00125745,0.00125745,0.42322288,365.10394,654.74281)" />
-    <rect
-       y="758.6684"
-       x="435.01498"
-       width="25.393486"
-       id="Rectangle-40"
-       height="11.003843"
-       style="fill:#fbf0b8;fill-rule:evenodd;stroke:none;stroke-width:1"
-       transform="matrix(0.99999559,-0.00297112,0.00297112,0.99999559,0,0)" />
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-12)"
-       xlink:href="#path-11"
-       id="use5336"
-       transform="matrix(0.42322288,-0.00125745,0.00125745,0.42322288,365.10394,654.74281)" />
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       style="fill:#d98383;fill-rule:evenodd;stroke:none;stroke-width:1"
-       xlink:href="#path-11"
-       id="use5338"
-       transform="matrix(0.42322288,-0.00125745,0.00125745,0.42322288,365.10394,654.74281)" />
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-14)"
-       xlink:href="#path-13"
-       id="use5341"
-       transform="matrix(0.42322288,-0.00125745,0.00125745,0.42322288,365.10394,654.74281)" />
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       style="fill:#d98383;fill-rule:evenodd;stroke:none;stroke-width:1"
-       xlink:href="#path-13"
-       id="use5343"
-       transform="matrix(0.42322288,-0.00125745,0.00125745,0.42322288,365.10394,654.74281)" />
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-16)"
-       xlink:href="#path-15"
-       id="use5346"
-       transform="matrix(0.42322288,-0.00125745,0.00125745,0.42322288,365.10394,654.74281)" />
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       style="fill:#d98383;fill-rule:evenodd;stroke:none;stroke-width:1"
-       xlink:href="#path-15"
-       id="use5348"
-       transform="matrix(0.42322288,-0.00125745,0.00125745,0.42322288,365.10394,654.74281)" />
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-18)"
-       xlink:href="#path-17"
-       id="use5352"
-       transform="matrix(0.42322288,-0.00125745,0.00125745,0.42322288,365.10394,654.74281)" />
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       style="fill:#d98383;fill-rule:evenodd;stroke:none;stroke-width:1"
-       xlink:href="#path-17"
-       id="use5354"
-       transform="matrix(0.42322288,-0.00125745,0.00125745,0.42322288,365.10394,654.74281)" />
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-20)"
-       xlink:href="#path-19"
-       id="use5358"
-       transform="matrix(0.42322288,-0.00125745,0.00125745,0.42322288,365.10394,654.74281)" />
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       style="fill:#d98383;fill-rule:evenodd;stroke:none;stroke-width:1"
-       xlink:href="#path-19"
-       id="use5360"
-       transform="matrix(0.42322288,-0.00125745,0.00125745,0.42322288,365.10394,654.74281)" />
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-22)"
-       xlink:href="#path-21"
-       id="use5364"
-       transform="matrix(0.42322288,-0.00125745,0.00125745,0.42322288,365.10394,654.74281)" />
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       style="fill:#d98383;fill-rule:evenodd;stroke:none;stroke-width:1"
-       xlink:href="#path-21"
-       id="use5366"
-       transform="matrix(0.42322288,-0.00125745,0.00125745,0.42322288,365.10394,654.74281)" />
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-24)"
-       xlink:href="#path-23"
-       id="use5370"
-       transform="matrix(0.42322288,-0.00125745,0.00125745,0.42322288,365.10394,654.74281)" />
-    <use
-       height="100%"
-       width="100%"
-       y="0"
-       x="0"
-       style="fill:#d98383;fill-rule:evenodd;stroke:none;stroke-width:1"
-       xlink:href="#path-23"
-       id="use5372"
-       transform="matrix(0.42322288,-0.00125745,0.00125745,0.42322288,365.10394,654.74281)" />
     <g
-       id="g3692"
-       transform="translate(-2.5483134,0)">
+       transform="matrix(5.4638458,0.00302963,-0.00302963,5.4638458,275.266,575.66237)"
+       id="g5650">
+      <g
+         id="Peak">
+        <g
+           id="g5600">
+          <path
+             inkscape:connector-curvature="0"
+             d="M 2,36.001 2,44 c 0,8 0,16 2,16 8,0 12,-8 28,-8 16,0 20,8 28,8 2,0 2,-8 2,-16 l 0,-7.999 -60,0 z"
+             style="fill:#48a0dc"
+             id="path5602" />
+        </g>
+      </g>
+      <g
+         id="Crown">
+        <g
+           id="g5605">
+          <path
+             inkscape:connector-curvature="0"
+             d="M 34,2.001 C 34,0 33.104,0 32,0 30.895,0 30,0 30,2.001 8,2.001 0,18 0,36.001 0,44 2,44 2,44 l 4,-1.999 c 4,-2 14,-6 26,-6 12,0 22,4 26,6 L 62,44 c 0,0 2,0 2,-7.999 0,-18.001 -8,-34 -30,-34 z"
+             style="clip-rule:evenodd;fill:#408ec2;fill-rule:evenodd"
+             id="path5607" />
+        </g>
+      </g>
+      <g
+         id="Front">
+        <g
+           id="g5610">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 32,2.001 c -24,0 -26,18 -26,22 l 0,18 c 4,-2 14,-6 26,-6 12,0 21.999,4 26,6 l 0,-18 c 0,-4 -2,-22 -26,-22 z"
+             style="fill:#e6e6e6"
+             id="path5612" />
+        </g>
+      </g>
+      <g
+         id="g5614" />
+      <g
+         id="g5616" />
+      <g
+         id="g5618" />
+      <g
+         id="g5620" />
+      <g
+         id="g5622" />
+      <g
+         id="g5624" />
+      <g
+         id="g5626" />
+      <g
+         id="g5628" />
+      <g
+         id="g5630" />
+      <g
+         id="g5632" />
+      <g
+         id="g5634" />
+      <g
+         id="g5636" />
+      <g
+         id="g5638" />
+      <g
+         id="g5640" />
+      <g
+         id="g5642" />
+    </g>
+    <g
+       id="g3696"
+       transform="matrix(1.0551287,-0.00161035,0.00161035,1.0551287,59.786087,-186.55482)">
       <text
          inkscape:export-filename="/home/seered/www/frontend-site/images/logo-png-v2.png"
          inkscape:export-ydpi="89"
          inkscape:export-xdpi="89"
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:31.13824081px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#236d58;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="451.76385"
-         y="874.06848"
+         style="font-style:normal;font-weight:normal;font-size:52.65127945px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#236d58;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="367.17355"
+         y="868.70923"
          id="text4271"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan4273"
-           x="451.76385"
-           y="874.06848"
+           x="367.17355"
+           y="868.70923"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Pacifico;-inkscape-font-specification:Pacifico;fill:#236d58;fill-opacity:1"> Ideia</tspan></text>
       <g
          style="fill:#236d58;fill-opacity:1"
          inkscape:export-ydpi="89"
          inkscape:export-xdpi="89"
          inkscape:export-filename="/home/seered/www/frontend-site/images/logo-png-v2.png"
-         transform="matrix(0.584689,0,0,0.584689,225.04092,434.90708)"
+         transform="matrix(0.98864367,0,0,0.98864367,-16.189579,126.13645)"
          id="g4549">
         <g
            style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#236d58;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1424,7 +1256,7 @@
          inkscape:export-ydpi="89"
          inkscape:export-xdpi="89"
          inkscape:export-filename="/home/seered/www/frontend-site/images/logo-png-v2.png"
-         transform="matrix(0.51816052,0,0,0.51816052,168.19468,437.77222)"
+         transform="matrix(0.87615146,0,0,0.87615146,-112.31022,130.98107)"
          id="g4592">
         <g
            style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
