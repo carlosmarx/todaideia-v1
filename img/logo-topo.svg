@@ -11,13 +11,13 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="130"
-   height="32.131001"
-   viewBox="0 0 130 32.130998"
+   height="42.131001"
+   viewBox="0 0 130 42.130997"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="logo-topo.svg"
-   inkscape:export-filename="/media/seered/45BB1D1723DFF433/Trabalhos/TodaIdeia/Vetor Logo/logo1.png"
+   inkscape:export-filename="/home/seered/www/todaideia-v1/img/logo-topo.png"
    inkscape:export-xdpi="89"
    inkscape:export-ydpi="89">
   <defs
@@ -717,8 +717,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="82.876684"
-     inkscape:cy="78.063794"
+     inkscape:cx="8.807248"
+     inkscape:cy="21.495251"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -755,7 +755,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -763,25 +763,25 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1020.231)">
+     transform="translate(0,-1010.231)">
     <text
        sodipodi:linespacing="125%"
        id="text4271"
-       y="1049.5068"
+       y="1039.5068"
        x="64.31591"
-       style="font-style:normal;font-weight:normal;font-size:27.1543026px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-weight:normal;font-size:27.1543026px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="89"
        inkscape:export-ydpi="89"
        inkscape:export-filename="/home/seered/www/frontend-site/images/logo-png-v2.png"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Pacifico;-inkscape-font-specification:Pacifico;fill:#ffffff;"
-         y="1049.5068"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Pacifico;-inkscape-font-specification:Pacifico;fill:#ffffff"
+         y="1039.5068"
          x="64.31591"
          id="tspan4273"
          sodipodi:role="line"> Ideia</tspan></text>
     <g
        id="g4549"
-       transform="matrix(0.50988178,0,0,0.50988178,-133.39928,666.53325)"
+       transform="matrix(0.50988178,0,0,0.50988178,-133.39928,656.53325)"
        inkscape:export-filename="/home/seered/www/frontend-site/images/logo-png-v2.png"
        inkscape:export-xdpi="89"
        inkscape:export-ydpi="89"
@@ -816,7 +816,7 @@
     </g>
     <g
        id="g4592"
-       transform="matrix(0.45186519,0,0,0.45186519,-182.97242,671.03181)"
+       transform="matrix(0.45186519,0,0,0.45186519,-182.97242,661.03181)"
        inkscape:export-filename="/home/seered/www/frontend-site/images/logo-png-v2.png"
        inkscape:export-xdpi="89"
        inkscape:export-ydpi="89">
